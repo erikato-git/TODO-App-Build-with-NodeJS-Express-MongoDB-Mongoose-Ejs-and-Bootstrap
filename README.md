@@ -5,7 +5,7 @@
 npm install
 npm start
 ```
-Open browser and go to localhost:3000
+Open browser and go to 'localhost:3000'
 <br>(Change MongoDB-connectionstring) 
 
 ### Extensions:
