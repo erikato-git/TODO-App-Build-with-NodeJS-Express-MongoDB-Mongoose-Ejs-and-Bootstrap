@@ -5,3 +5,6 @@
 * Security, hash, encryption
 * Production code
 * Deploy and host on Heroku
+
+Inspired by: https://www.youtube.com/watch?v=voDummz1gO0&ab_channel=CodAffection
+and other websites
