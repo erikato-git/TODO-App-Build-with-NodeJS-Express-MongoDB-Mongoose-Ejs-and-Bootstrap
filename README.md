@@ -13,6 +13,7 @@ Open browser and go to 'localhost:3000'
 * Security, hash, encryption
 * Production code
 * Deploy and host on Heroku
+* Error handling and statuskode-responses
 
 Inspired by: https://www.youtube.com/watch?v=voDummz1gO0&ab_channel=CodAffection
 and other websites
